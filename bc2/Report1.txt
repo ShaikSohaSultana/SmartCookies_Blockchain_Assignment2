@@ -1,0 +1,6 @@
+Step 1: Transaction from A to B
+ 1.Generating legacy address
+  run generate_legacy_addresses.py
+  output:
+  
+  
